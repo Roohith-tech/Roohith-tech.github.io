@@ -1,4 +1,4 @@
-**STYLES OF TECH**
+**STYLE OF TECH**
 
 Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
 
