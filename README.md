@@ -17,7 +17,7 @@
     {% include head-custom.html %}
   </head>
 
-  <body>
+ 
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
